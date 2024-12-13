@@ -17,4 +17,5 @@ void fibonacci(int n) {
 
 int main() {
     int n;
-    cout << "enter....
+    cout << "enter n value:" << n;
+    co

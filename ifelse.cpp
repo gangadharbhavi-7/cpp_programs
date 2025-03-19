@@ -1,4 +1,6 @@
 #include<upstream>
 using namespace std:
 int main(){
-cout
+cout << "hello";
+return 0;
+}

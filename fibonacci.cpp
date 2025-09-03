@@ -3,7 +3,8 @@ using namespace std;
 
 // Function to calculate Fibonacci series
 void fibonacci(int n) {
-    int t1 = 0, t2 = 1, nextTerm;
+    int t1 = 0, t2 = 1;
+    int nextTerm;
 
     cout << "Fibonacci Series: " << t1 << ", " << t2 << ", ";
 

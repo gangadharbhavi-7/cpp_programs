@@ -1,6 +1,7 @@
 #include<stdio>
 using namespace std;
-void main()
+
+int main()
 {
   cout<<"enter the value of a,b,c";
   cin>>a>>b>>c;

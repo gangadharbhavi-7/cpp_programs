@@ -1,2 +1,5 @@
 #include<stdio.h>
-uisng
+using namespace std;
+int main(){
+
+}

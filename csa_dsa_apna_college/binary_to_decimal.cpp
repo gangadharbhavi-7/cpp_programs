@@ -16,4 +16,4 @@ num/=10;
 }
 cout<<dec<<endl;
 return 0;
-}g
+}ggh

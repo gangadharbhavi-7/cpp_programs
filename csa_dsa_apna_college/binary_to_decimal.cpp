@@ -10,7 +10,7 @@ int main(){
 while(num>0){
     int rem=num%10;
 dec=dec+rem*pow;
-pow*=2;
+pow*=2;gcvt
 num/=10;
 
 }

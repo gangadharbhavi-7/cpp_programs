@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;g
+using namespace std;
 class Shape{
     public : 
     virtual void display(){

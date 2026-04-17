@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;gan
+using namespace std;
 int main(){
     int n;
     cout<<"Enter the number of elements: ";

@@ -7,7 +7,7 @@ int main(){
     cin>>n;
     int m;
     cout<<"Enter the second number: ";
-    cin>>m;
+    cin>>m;hsk
     cout<<"Before swapping:\n n="<<n<<" m="<<m<<endl;
     swap(n, m);
     cout<<"After swapping:\n n="<<n<<" m="<<m;

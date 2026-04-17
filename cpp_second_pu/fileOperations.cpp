@@ -3,7 +3,7 @@
 using namespace std;
 int main(){
     ofstream outFile("Example.txt");
-    if(!outFile)ggd
+    if(!outFile)
 {
     cout<<"Error creating file!"<<endl;
     return 1;

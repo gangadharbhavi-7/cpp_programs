@@ -11,7 +11,7 @@ int main(){
                 swap(minu,arr[j]);
             }
         }
-        
+        gang
     }
     for(int i=0;i<n;i++){
         cout<<arr[i];snakeputi

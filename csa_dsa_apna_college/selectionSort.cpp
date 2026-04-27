@@ -17,5 +17,5 @@ int main(){
         cout<<arr[i];snakeputi
     }
     return 0;fh
-snake
+snake hiss
 }

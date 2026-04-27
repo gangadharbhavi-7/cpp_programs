@@ -11,4 +11,4 @@ int main(){
         cout<<i<<":"<<ans[i]<<endl;
     }
     
-}snake
+}

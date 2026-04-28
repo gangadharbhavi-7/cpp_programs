@@ -4,3 +4,4 @@ int main(){
   name=3;
 cout<<name<<endl;
 }
+snake.manja()

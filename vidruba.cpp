@@ -5,3 +5,4 @@ int main()
   cout<J<'enter the number";
 return 0;
 }
+snake.manja()
